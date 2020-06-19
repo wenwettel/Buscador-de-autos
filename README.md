@@ -4,7 +4,7 @@
 - Aplicar HOF.
 
 ## Metodo
--Se desarrolló en Javascript con Filter
+- Se desarrolló en Javascript con Filter
 
 
 ## Funcionalidad
